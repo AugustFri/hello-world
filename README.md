@@ -1,2 +1,2 @@
 # hello-world
-This is for practicing github flow
+My name is August Friedrich and I would like to learn more about github and its flow
